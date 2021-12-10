@@ -5,8 +5,8 @@ Our project is to create a multiplayer version of the game Mastermind. Mastermin
 1. Both clients can connect to the server
 2. One user can send a pattern to the server, which will then send to the other client
 3. One client can take a guess at the pattern and the server verifies whether it is correct.
-4. Once the game is over the server can end the clients
-5. Game has a p2p connection, so can not start unless there are two clients
+4. Once the game is over the server can ask for another
+5. Game has a p2p connection, so can not start unless there are both clients are connecting
 ## Demo Video
 https://www.youtube.com/
 ## Team Members
