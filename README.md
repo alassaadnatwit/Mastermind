@@ -10,6 +10,6 @@ Our project is to create a multiplayer version of the game Mastermind. Mastermin
 ## Demo Video
 https://www.youtube.com/
 ## Team Members
-George Foto - Team Lead
-Nael Al-Assaad - Bug Fixer
-River - Bug Fixer
+- George Foto - Team Lead
+- Nael Al-Assaad - Bug Fixer
+- River - Bug Fixer
