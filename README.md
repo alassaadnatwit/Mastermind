@@ -8,7 +8,7 @@ Our project is to create a multiplayer version of the game Mastermind. Mastermin
 4. Once the game is over the server can ask for another
 5. Game has a p2p connection, so can not start unless there are both clients are connecting
 ## Demo Video
-https://www.youtube.com/
+https://www.youtube.com/watch?v=y1qSNQhp5pA
 ## Team Members
 - George Foto - Team Lead
 - Nael Al-Assaad - Bug Fixer
