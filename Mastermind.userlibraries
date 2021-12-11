@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="commons-beanutils-1.9">
+    <archive path="C:/Users/fotog/Documents/Class Stuff/Fall 2020/Comp 2/commons-beanutils-1.9.4-bin/commons-beanutils-1.9.4/commons-beanutils-1.9.4.jar" />
+    <archive path="C:/Users/fotog/Documents/Class Stuff/Fall 2020/Comp 2/commons-beanutils-1.9.4-bin/commons-beanutils-1.9.4/commons-beanutils-1.9.4-tests.jar" />
+    <archive path="C:/Users/fotog/Documents/Class Stuff/Fall 2020/Comp 2/commons-beanutils-1.9.4-bin/commons-beanutils-1.9.4/commons-beanutils-1.9.4-javadoc.jar" />
+    <archive path="C:/Users/fotog/Documents/Class Stuff/Fall 2020/Comp 2/commons-beanutils-1.9.4-bin/commons-beanutils-1.9.4/commons-beanutils-1.9.4-sources.jar" />
+    <archive path="C:/Users/fotog/Documents/Class Stuff/Fall 2020/Comp 2/commons-beanutils-1.9.4-bin/commons-beanutils-1.9.4/commons-beanutils-1.9.4-test-sources.jar" />
+  </library>
+  <library name="commons-configuration2-2">
+    <archive path="C:/Users/fotog/Documents/Class Stuff/Fall 2020/Comp 2/commons-configuration2-2.7-bin/commons-configuration2-2.7/commons-configuration2-2.7.jar" />
+    <archive path="C:/Users/fotog/Documents/Class Stuff/Fall 2020/Comp 2/commons-configuration2-2.7-bin/commons-configuration2-2.7/commons-configuration2-2.7-tests.jar" />
+    <archive path="C:/Users/fotog/Documents/Class Stuff/Fall 2020/Comp 2/commons-configuration2-2.7-bin/commons-configuration2-2.7/commons-configuration2-2.7-javadoc.jar" />
+    <archive path="C:/Users/fotog/Documents/Class Stuff/Fall 2020/Comp 2/commons-configuration2-2.7-bin/commons-configuration2-2.7/commons-configuration2-2.7-sources.jar" />
+    <archive path="C:/Users/fotog/Documents/Class Stuff/Fall 2020/Comp 2/commons-configuration2-2.7-bin/commons-configuration2-2.7/commons-configuration2-2.7-test-sources.jar" />
+  </library>
+  <library name="commons-lang3-3">
+    <archive path="C:/Users/fotog/Documents/Class Stuff/Fall 2020/Comp 2/commons-lang3-3.11-bin/commons-lang3-3.11/commons-lang3-3.11.jar" />
+    <archive path="C:/Users/fotog/Documents/Class Stuff/Fall 2020/Comp 2/commons-lang3-3.11-bin/commons-lang3-3.11/commons-lang3-3.11-tests.jar" />
+    <archive path="C:/Users/fotog/Documents/Class Stuff/Fall 2020/Comp 2/commons-lang3-3.11-bin/commons-lang3-3.11/commons-lang3-3.11-javadoc.jar" />
+    <archive path="C:/Users/fotog/Documents/Class Stuff/Fall 2020/Comp 2/commons-lang3-3.11-bin/commons-lang3-3.11/commons-lang3-3.11-sources.jar" />
+    <archive path="C:/Users/fotog/Documents/Class Stuff/Fall 2020/Comp 2/commons-lang3-3.11-bin/commons-lang3-3.11/commons-lang3-3.11-test-sources.jar" />
+  </library>
+  <library name="commons-logging-1">
+    <archive path="C:/Users/fotog/Documents/Class Stuff/Fall 2020/Comp 2/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar" />
+    <archive path="C:/Users/fotog/Documents/Class Stuff/Fall 2020/Comp 2/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2-javadoc.jar" />
+  </library>
+  <library name="commons-text-1">
+    <archive path="C:/Users/fotog/Documents/Class Stuff/Fall 2020/Comp 2/commons-text-1.9-bin/commons-text-1.9/commons-text-1.9.jar" />
+    <archive path="C:/Users/fotog/Documents/Class Stuff/Fall 2020/Comp 2/commons-text-1.9-bin/commons-text-1.9/commons-text-1.9-tests.jar" />
+    <archive path="C:/Users/fotog/Documents/Class Stuff/Fall 2020/Comp 2/commons-text-1.9-bin/commons-text-1.9/commons-text-1.9-javadoc.jar" />
+    <archive path="C:/Users/fotog/Documents/Class Stuff/Fall 2020/Comp 2/commons-text-1.9-bin/commons-text-1.9/commons-text-1.9-sources.jar" />
+    <archive path="C:/Users/fotog/Documents/Class Stuff/Fall 2020/Comp 2/commons-text-1.9-bin/commons-text-1.9/commons-text-1.9-test-sources.jar" />
+  </library>
+  <library name="lib">
+    <archive path="C:/Users/fotog/IdeaProjects/Java11/javafx-sdk-11/lib/src.zip" />
+    <archive path="C:/Users/fotog/IdeaProjects/Java11/javafx-sdk-11/lib/javafx-swt.jar" />
+    <archive path="C:/Users/fotog/IdeaProjects/Java11/javafx-sdk-11/lib/javafx.web.jar" />
+    <archive path="C:/Users/fotog/IdeaProjects/Java11/javafx-sdk-11/lib/javafx.base.jar" />
+    <archive path="C:/Users/fotog/IdeaProjects/Java11/javafx-sdk-11/lib/javafx.fxml.jar" />
+    <archive path="C:/Users/fotog/IdeaProjects/Java11/javafx-sdk-11/lib/javafx.media.jar" />
+    <archive path="C:/Users/fotog/IdeaProjects/Java11/javafx-sdk-11/lib/javafx.swing.jar" />
+    <archive path="C:/Users/fotog/IdeaProjects/Java11/javafx-sdk-11/lib/javafx.controls.jar" />
+    <archive path="C:/Users/fotog/IdeaProjects/Java11/javafx-sdk-11/lib/javafx.graphics.jar" />
+  </library>
+</eclipse-userlibraries>
+
