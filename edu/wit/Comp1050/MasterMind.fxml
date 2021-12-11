@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="706.0" prefWidth="380.0" style="-fx-background-color: GREEN;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.wit.Comp1050.Controller">
+   <children>
+      <MenuBar layoutY="1.0" prefHeight="26.0" prefWidth="380.0">
+        <menus>
+          <Menu fx:id="filemenu" mnemonicParsing="false" text="File">
+            <items>
+              <MenuItem fx:id="configsettings" mnemonicParsing="false" text="Config" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+      <HBox alignment="CENTER" layoutX="81.0" layoutY="83.0" prefHeight="54.0" prefWidth="218.0" spacing="10.0" style="-fx-background-color: YELLOW;">
+         <children>
+            <Circle fx:id="CodeC1" radius="22.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle fx:id="CodeC2" radius="22.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle fx:id="CodeC3" radius="22.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle fx:id="CodeC4" radius="22.0" stroke="BLACK" strokeType="INSIDE" />
+         </children>
+      </HBox>
+      <HBox fx:id="ColorBOX" alignment="CENTER" layoutX="397.0" layoutY="124.0" prefHeight="54.0" prefWidth="268.0" scaleZ="0.0" spacing="15.0" style="-fx-background-color: YELLOW;">
+         <children>
+            <Circle fx:id="REDCIRCLE" fill="#ff1f1f" radius="14.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle fx:id="BLUECIRCLE" fill="#0066ff" layoutX="24.0" layoutY="24.0" radius="14.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle fx:id="GREENCIRCLE" fill="#1fff37" layoutX="24.0" layoutY="24.0" radius="14.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle fx:id="MAGENTACIRCLE" fill="#ff00f5" layoutX="24.0" layoutY="24.0" radius="14.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle fx:id="ORANGECIRCLE" fill="#ff8800" layoutX="24.0" layoutY="24.0" radius="14.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle fx:id="WHITECIRCLE" fill="WHITE" layoutX="24.0" layoutY="24.0" radius="14.0" stroke="BLACK" strokeType="INSIDE" />
+         </children>
+      </HBox>
+      <VBox fx:id="Vbox" layoutX="34.0" layoutY="151.0" nodeOrientation="RIGHT_TO_LEFT" prefHeight="405.0" prefWidth="218.0" rotate="180.0" style="-fx-background-color: GOLD;" />
+      <Button fx:id="NEWGUESS" layoutX="150.0" layoutY="631.0" mnemonicParsing="false" opacity="0.0" text="NEW GUESS" />
+      <Button fx:id="NEWGAME" layoutX="151.0" layoutY="667.0" mnemonicParsing="false" opacity="100" text="NEW GAME" />
+      <Text layoutX="109.0" layoutY="71.0" strokeType="OUTSIDE" strokeWidth="0.0" text="MASTERMIND" textAlignment="CENTER" wrappingWidth="160.5367431640625">
+         <font>
+            <Font size="21.0" />
+         </font>
+      </Text>
+      <VBox fx:id="Vboxpins" layoutX="262.0" layoutY="151.0" nodeOrientation="RIGHT_TO_LEFT" prefHeight="405.0" prefWidth="104.0" rotate="180.0" style="-fx-background-color: GOLD;" />
+      <Text fx:id="TextFeedback" layoutX="34.0" layoutY="577.0" strokeType="OUTSIDE" strokeWidth="0.0" wrappingWidth="330.93671798706055" />
+   </children>
+</Pane>
